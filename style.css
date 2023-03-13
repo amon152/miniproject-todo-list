@@ -187,7 +187,7 @@ h1 {
 }
 
 .popup-btn:hover {
-    color: #fff;
+    color: #eee8e8;
     background-color: var(--light-blue);
 }
 
